@@ -1,0 +1,19 @@
+{
+  "name": "carte_au_tresor",
+  "version": "1.0.0",
+  "description": "Carte au trésor (Carbon IT)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Sami75",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.14.3",
+    "@babel/plugin-transform-modules-commonjs": "^7.14.0",
+    "@babel/preset-env": "^7.14.4",
+    "@babel/register": "^7.13.16",
+    "jest": "^27.0.4"
+  }
+}
